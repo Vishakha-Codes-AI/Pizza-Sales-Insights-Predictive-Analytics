@@ -35,7 +35,7 @@ You can view the interactive project presentation directly on Canva without down
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](./04_PowerBI_Dashboard/dashboard_screenshot.png)
+![Dashboard Screenshot](./Pizza Sales Insights %26 Predictive Analytics/04_PowerBI_Dashboard/dashboard_screenshot.PNG)
 
 ---
 
